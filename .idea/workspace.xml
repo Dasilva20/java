@@ -4,31 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ece6b318-0c8e-494c-950f-c4db660d7e3b" name="Changes" comment="recovery">
-      <change afterPath="$PROJECT_DIR$/src/com/FileDemo/ClassWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/FileDemo/FileoutputSreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/FileDemo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/FileDemo/MyDoubble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/FileDemo/MyInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/FileDemo/MyString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/FileDemo/WildCardMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/FileDemo/WildCardUpperBound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Tutoria/ByteShortInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Tutoria/CharAndBoolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Tutoria/FloatAndDouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Tutoria/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Tutoria/Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Tutoria/Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collectionDemo/ArrayListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collectionDemo/HashMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collectionDemo/TreeMapDemo.java" afterDir="false" />
-    </list>
+    <list default="true" id="ece6b318-0c8e-494c-950f-c4db660d7e3b" name="Changes" comment="recovery" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -82,8 +70,33 @@
       <option name="project" value="LOCAL" />
       <updated>1694699528501</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="recovery">
+      <created>1694699825234</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694699825234</updated>
+    </task>
+    <task id="LOCAL-00003" summary="recovery">
+      <created>1694700418966</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694700418966</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="recovery" />
