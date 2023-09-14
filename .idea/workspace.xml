@@ -1,14 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ece6b318-0c8e-494c-950f-c4db660d7e3b" name="Changes" comment="recovery">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/FileDemo/ClassWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/FileDemo/FileoutputSreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/FileDemo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/FileDemo/MyDoubble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/FileDemo/MyInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/FileDemo/MyString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/FileDemo/WildCardMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/FileDemo/WildCardUpperBound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Tutoria/ByteShortInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Tutoria/CharAndBoolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Tutoria/FloatAndDouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Tutoria/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Tutoria/Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Tutoria/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collectionDemo/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collectionDemo/HashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collectionDemo/TreeMapDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +30,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2VODXHlsBRaoMojww5X8wIg9HGF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -59,6 +75,14 @@
       <option name="presentableId" value="Default" />
       <updated>1694698273949</updated>
     </task>
+    <task id="LOCAL-00001" summary="recovery">
+      <created>1694699528501</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694699528501</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
